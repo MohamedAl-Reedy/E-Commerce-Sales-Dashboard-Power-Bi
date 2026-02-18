@@ -44,7 +44,10 @@ The dashboard provides insights into revenue growth, top-performing products, cu
 ---
 
 ## 📷 Dashboard Preview
-<img width="1882" height="986" alt="Shopify Details" src="https://github.com/user-attachments/assets/7187af45-f864-49dc-b316-e42b0b8f7185" />
+<img width="1920" height="987" alt="Shopify Analysis" src="https://github.com/user-attachments/assets/9bf84d71-516a-4c03-b248-b79ec21e8d91" />
+<img width="1882" height="986" alt="Shopify Details" src="https://github.com/user-attachments/assets/efaa2b50-bc95-481a-95bf-bf6666608edc" />
+
+
 
 
 ---
